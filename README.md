@@ -72,7 +72,7 @@
 ## 5. 기능
 - GUI 방식으로 마크업을 시각적으로 화면에 표시
 
-![image](https://user-images.githubusercontent.com/67459853/209906639-d724f68c-6a8c-40c9-8435-70a6c0ed3742.png)
+![img](https://user-images.githubusercontent.com/67459853/209906732-283b49e9-3c2a-46d5-93ad-5d199e6f821b.gif)
 
 - 화면에 그려진대로 HTML 추출
 
