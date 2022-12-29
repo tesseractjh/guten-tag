@@ -1,7 +1,7 @@
 # 구텐Tag - HTML Markup Generator
-- 구텐Tag은 HTML 구조를 보드에 그려나가는 방식의 마크업 작성 서비스입니다.
-- 활용 예시
-<img src="resource/example_structure.png"/><br>
+![image](https://user-images.githubusercontent.com/67459853/209906616-d5ed8ac1-5874-44f5-b163-752ee7a4cd2d.png)
+
+구텐Tag은 GUI 방식의 마크업 작성 서비스입니다.
 
 ## 1. 목표와 기능
 ### 1.1 목표
@@ -68,19 +68,12 @@
 ```
 ### 4.2 개발 일정
 - 메인 프로젝트 기간 : 2021.12.17 - 2022.01.02
-- 추후 지속적으로 기능 보완
 
-## 5. 로고 / UI
-### 5.1 로고
-<img src="resource/logoblack.png" width="30%"/>
+## 5. 기능
+- GUI 방식으로 마크업을 시각적으로 화면에 표시
 
-### 5.2 UI
-- 초기 기획안<br>
-<img src="resource/planning1.png"/><br>
-- UI<br><img src="resource/planning2.png"/><br>
-- 구텐Tag으로 만든 사이트 구조<br>
-<img src="resource/gutentag_structure.png"/><br>
+![image](https://user-images.githubusercontent.com/67459853/209906639-d724f68c-6a8c-40c9-8435-70a6c0ed3742.png)
 
+- 화면에 그려진대로 HTML 추출
 
-## 6. 메인 기능
-## 7. 개발하며 느낀 점
+![image](https://user-images.githubusercontent.com/67459853/209906645-27a4bb6c-396d-4576-8207-48126fffbe9f.png)
